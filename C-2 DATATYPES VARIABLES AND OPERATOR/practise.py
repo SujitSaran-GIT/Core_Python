@@ -1,0 +1,5 @@
+num = int(input("Enter the number:"))
+print(type(num))
+flt = float(num)
+print(flt)
+print(type(flt))
